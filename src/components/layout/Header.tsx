@@ -10,7 +10,7 @@ const Header = () => {
     <header className='flex justify-between py-4   items-center'>
         <div>
         {/* <h2  className='text-xl font-bold'>Panaverse Dao</h2> */}
-        <Image src={logo} alt="panaverse dao logo" width={120} height={30} />
+        <Image src={logo} alt="panaverse dao logo" priority width={120} height={120} />
         </div>
         <ul className='flex space-x-8 font-medium'>
             <li><Link href={"/"}>Home</Link></li>

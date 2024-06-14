@@ -7,7 +7,7 @@ import tutor from "@/assets/images/tuition2.png";
 import tutor3 from "@/assets/images/tuition3.png"
 import tutor4 from "@/assets/images/tuition4.png"
 import tutor5 from "@/assets/images/tuition5.jpg"
-import tutor6 from "@/assets/images/tuition6.jpg"
+import tutor6 from "@/assets/images/tuition3.png"
 import Image from "next/image";
 import { useState } from "react";
 

@@ -1,0 +1,5 @@
+.styleContainer {
+    width: 120px; /* specify width */
+    height: 30px; /* specify height */
+    overflow: hidden; /* ensure the container doesn't overflow */
+  }
