@@ -1,7 +1,7 @@
 import React from 'react'
 import Wrapper from '@/components/shared/Wrapper'
 import Image from 'next/image'
-import heroPoster from "@/assets/images/heroPoster.png"
+import heroPoster from "@/assets/images/HeroPoster.png"
 import Button from '../shared/Button'
 
 const Hero = () => {
